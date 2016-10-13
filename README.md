@@ -7,7 +7,5 @@
 
 ## Tutorials
 
-* [Elm Tutorial](https://www.elm-tutorial.org)
-  * Stoped in https://www.elm-tutorial.org/en/04-starting/01-planning.html
-
+* http://courses.knowthen.com/courses/elm-for-beginners/lectures/1254147
 
